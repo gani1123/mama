@@ -1,5 +1,1 @@
-<html>
-<body>
-<h2>Hello World!</h2>
-</body>
-</html>
+<a href="https://www.google.com" target="_blank">Visit Google</a>
